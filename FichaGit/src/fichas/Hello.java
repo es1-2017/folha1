@@ -3,6 +3,9 @@ package fichas;
 
 /*
 
+gdgfdgsd
+
+
 */
 public class Hello {
 
@@ -11,12 +14,14 @@ public class Hello {
 		
 		// TODO Auto-generated method stub
         System.out.println("Hello");
-        System.out.println("Hello2");
-        
-        System.out.println("Hello3");
+
         
 
         System.out.println("Hello3");
+
+		 System.out.println("Hellqwqweo");
+
 	}
 
+	
 }
